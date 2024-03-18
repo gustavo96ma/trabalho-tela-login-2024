@@ -1,0 +1,12 @@
+/home/gustavo/Documents/desenvolvimento/aulas/aulas-flutter/tela_login/build/linux/x64/debug/bundle/tela_login
+/home/gustavo/Documents/desenvolvimento/aulas/aulas-flutter/tela_login/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/gustavo/Documents/desenvolvimento/aulas/aulas-flutter/tela_login/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/gustavo/Documents/desenvolvimento/aulas/aulas-flutter/tela_login/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/gustavo/Documents/desenvolvimento/aulas/aulas-flutter/tela_login/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/gustavo/Documents/desenvolvimento/aulas/aulas-flutter/tela_login/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/gustavo/Documents/desenvolvimento/aulas/aulas-flutter/tela_login/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/gustavo/Documents/desenvolvimento/aulas/aulas-flutter/tela_login/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/gustavo/Documents/desenvolvimento/aulas/aulas-flutter/tela_login/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/gustavo/Documents/desenvolvimento/aulas/aulas-flutter/tela_login/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/gustavo/Documents/desenvolvimento/aulas/aulas-flutter/tela_login/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/gustavo/Documents/desenvolvimento/aulas/aulas-flutter/tela_login/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
